@@ -32,7 +32,7 @@ mccabe==0.6.1
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
-notebook==5.4.0
+notebook ~= 5.4
 numba==0.38.0
 numpy==1.14.2
 pandas==0.22.0
@@ -42,7 +42,6 @@ parso==0.1.1
 pexpect==4.4.0
 pickleshare==0.7.4
 Pillow==5.0.0
-pkg-resources==0.0.0
 ply==3.11
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
